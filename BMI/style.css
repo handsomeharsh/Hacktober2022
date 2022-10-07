@@ -26,9 +26,12 @@ h2 {
 }
 
 .text {
+   font-family: balloo bhai;
     text-align: center;
     font-weight: bold;
-    color: white;
+    color:white;
+    font-size:17px;
+    font-height:20px;
 }
 
 #weight,
